@@ -1,0 +1,19 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-iquote",
+      "./include/",
+      "-Wall",
+      "-Wpedantic",
+      "-pthread",
+      "-o",
+      "src/main",
+      "src/main.c"
+    ],
+    "directory": "/home/sfar-raphael/hsl_calc",
+    "file": "/home/sfar-raphael/hsl_calc/src/main.c",
+    "output": "/home/sfar-raphael/hsl_calc/src/main"
+  }
+]
