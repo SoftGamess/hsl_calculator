@@ -22,4 +22,5 @@ clean:
 	-rm -f $(OBJDIR)*.o
 
 exec:
+	make
 	./src/main
