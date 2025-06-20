@@ -22,5 +22,7 @@ clean:
 	-rm -f $(OBJDIR)*.o
 
 exec:
+	clear
 	make
+	clear
 	./src/main
